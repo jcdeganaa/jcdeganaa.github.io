@@ -1,0 +1,26 @@
+.navbar{
+    border-bottom: 5px solid black;
+    font-family:sans-serif;
+    font-size: 20px;
+    background-color: white; 
+    margin: 0px;
+}
+
+.nav-item{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(https://webdesigndev.com/wp-content/uploads/2015/02/Free-Minimalist-Subtle-Patterns-for-Clean-Websites1.jpg);
+    background-size: cover;
+}
+
+.card-text{
+    font-family: sans-serif;
+}
+
+.card-title{
+    font-family: sans-serif;
+}
+
